@@ -16,5 +16,7 @@ public class MahasiswaAksi {
         Jane.Nama="Mary Jane";
         Jane.NPM="16631892";
         Jane.IPK=3.3;
+        
+        Jane.cetakinfo();
     }
 }
