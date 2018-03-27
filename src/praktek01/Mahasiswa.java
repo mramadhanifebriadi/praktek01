@@ -10,5 +10,14 @@ package praktek01;
  * @author WINDOWS 10
  */
 public class Mahasiswa {
+    String Nama;
+    String NPM;
+    double IPK;
+    
+    void cetakinfo(){
+        System.out.println("Nama :"+Nama);
+        System.out.println("NPM  :"+NPM);
+        System.out.println("IPK  :"+IPK);
+    }
     
 }
